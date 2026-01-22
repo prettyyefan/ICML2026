@@ -16,7 +16,7 @@ git pull origin main --allow-unrelated-histories
 
 git add memo.md
 
-git commit -m "update 2026.01.08"
+git commit -m "update 2026.01.22"
 
 git push -u origin main
 
@@ -25,8 +25,7 @@ git push -u origin main
 
 
 
-
-
+python main.py
 
 
 # 硬件信息
